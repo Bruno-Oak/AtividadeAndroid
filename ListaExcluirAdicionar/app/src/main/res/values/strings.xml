@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListaExcluirAdicionar</string>
+    <string name="adicione_ou_delete_uma_linguagem">Adicione ou delete uma linguagem!</string>
+    <string name="linguagem">Linguagem</string>
+</resources>
